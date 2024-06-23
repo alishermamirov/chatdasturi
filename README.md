@@ -1,6 +1,6 @@
 # chatdasturi
 
-A new Flutter project.
+this project is chat application
 
 ## Getting Started
 
